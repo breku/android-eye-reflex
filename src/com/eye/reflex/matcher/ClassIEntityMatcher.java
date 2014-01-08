@@ -1,4 +1,4 @@
-package com.base.matcher;
+package com.eye.reflex.matcher;
 
 import org.andengine.entity.IEntity;
 import org.andengine.entity.IEntityMatcher;

@@ -1,8 +1,8 @@
-package com.base.model.scene;
+package com.eye.reflex.model.scene;
 
 import android.app.Activity;
-import com.base.manager.ResourcesManager;
-import com.base.util.SceneType;
+import com.eye.reflex.manager.ResourcesManager;
+import com.eye.reflex.util.SceneType;
 import org.andengine.engine.Engine;
 import org.andengine.engine.camera.Camera;
 import org.andengine.entity.scene.Scene;

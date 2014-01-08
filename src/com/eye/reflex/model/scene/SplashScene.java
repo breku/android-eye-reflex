@@ -1,6 +1,6 @@
-package com.base.model.scene;
+package com.eye.reflex.model.scene;
 
-import com.base.util.SceneType;
+import com.eye.reflex.util.SceneType;
 import org.andengine.engine.camera.Camera;
 import org.andengine.entity.sprite.Sprite;
 import org.andengine.opengl.util.GLState;

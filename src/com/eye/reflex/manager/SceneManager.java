@@ -1,10 +1,10 @@
-package com.base.manager;
+package com.eye.reflex.manager;
 
-import com.base.model.scene.*;
-import com.base.model.util.HighScore;
-import com.base.util.ConstantsUtil;
-import com.base.util.GameType;
-import com.base.util.SceneType;
+import com.eye.reflex.model.scene.*;
+import com.eye.reflex.model.util.HighScore;
+import com.eye.reflex.util.ConstantsUtil;
+import com.eye.reflex.util.GameType;
+import com.eye.reflex.util.SceneType;
 import org.andengine.engine.handler.timer.ITimerCallback;
 import org.andengine.engine.handler.timer.TimerHandler;
 import org.andengine.ui.IGameInterface;

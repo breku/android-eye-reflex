@@ -1,9 +1,9 @@
-package com.base.model.scene;
+package com.eye.reflex.model.scene;
 
-import com.base.manager.ResourcesManager;
-import com.base.manager.SceneManager;
-import com.base.util.ConstantsUtil;
-import com.base.util.SceneType;
+import com.eye.reflex.manager.ResourcesManager;
+import com.eye.reflex.manager.SceneManager;
+import com.eye.reflex.util.ConstantsUtil;
+import com.eye.reflex.util.SceneType;
 import org.andengine.entity.scene.menu.MenuScene;
 import org.andengine.entity.scene.menu.item.IMenuItem;
 import org.andengine.entity.scene.menu.item.SpriteMenuItem;

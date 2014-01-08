@@ -1,11 +1,11 @@
-package com.base.service;
+package com.eye.reflex.service;
 
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import com.base.util.GameType;
+import com.eye.reflex.util.GameType;
 
 import java.util.ArrayList;
 import java.util.Collections;

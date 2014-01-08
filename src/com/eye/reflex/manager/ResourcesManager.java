@@ -1,4 +1,4 @@
-package com.base.manager;
+package com.eye.reflex.manager;
 
 import android.graphics.Color;
 import org.andengine.audio.sound.Sound;

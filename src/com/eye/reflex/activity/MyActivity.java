@@ -1,9 +1,9 @@
-package com.base.activity;
+package com.eye.reflex.activity;
 
 import android.view.KeyEvent;
-import com.base.manager.ResourcesManager;
-import com.base.manager.SceneManager;
-import com.base.util.ConstantsUtil;
+import com.eye.reflex.manager.ResourcesManager;
+import com.eye.reflex.manager.SceneManager;
+import com.eye.reflex.util.ConstantsUtil;
 import org.andengine.engine.camera.Camera;
 import org.andengine.engine.handler.timer.ITimerCallback;
 import org.andengine.engine.handler.timer.TimerHandler;

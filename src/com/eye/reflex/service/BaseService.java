@@ -1,7 +1,7 @@
-package com.base.service;
+package com.eye.reflex.service;
 
 import android.app.Activity;
-import com.base.manager.ResourcesManager;
+import com.eye.reflex.manager.ResourcesManager;
 import org.andengine.engine.Engine;
 
 /**

@@ -1,6 +1,6 @@
-package com.base.model.util;
+package com.eye.reflex.model.util;
 
-import com.base.util.GameType;
+import com.eye.reflex.util.GameType;
 
 /**
  * User: Breku
